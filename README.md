@@ -1,0 +1,2 @@
+# File-Integrity-Using-Linux-Hash-functions
+The objective of this task was to verify the integrity of two text files and determine if they were identical or had been altered. I used Linux hashing commands and file comparison tools to generate and analyze SHA-256 checksums for each file.
